@@ -1,0 +1,13 @@
+{
+    "name": "spnl/nl.sp.performance",
+    "description": "Improves performance",
+    "type": "civicrm-module",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Alain Benbassat",
+            "email": "alain@businessandcode.eu"
+        }
+    ],
+    "require": {}
+}
